@@ -1,0 +1,6 @@
+.DS_Store
+./mange_blog/node_modules
+./web_blog/node_modules
+./node_blog/node_modules
+./mange_blog/build
+./mange_blog/dist
